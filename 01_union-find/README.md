@@ -1,6 +1,8 @@
 # Union-Find algorithms
 C++ implementation of the Union-Find algorithms presented in [Coursera's "Algorithm" course](https://www.coursera.org/learn/algorithms-part1/).
 
+**Note**: make sure to place `input.txt` in the executable's folder, otherwise it won't be found.
+
 ### Files
 In no particular order:
 * `UnionFind.h` implements all the Union-Find algorithms.
