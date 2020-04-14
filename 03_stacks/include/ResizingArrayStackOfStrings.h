@@ -43,7 +43,7 @@ public:
 private:
 	std::vector<std::string> s;
 
-	// Index of next open position
+	// Index of the next open position
 	int N{ 0 };
 
 	void resize(int capacity)

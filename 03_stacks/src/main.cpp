@@ -2,6 +2,8 @@
 #include <fstream>
 
 #include "LinkedStackOfStrings.h"
+#include "ResizingArrayStackOfStrings.h"
+#include "FixedCapacityStackOfStrings.h"
 
 int main(int argc, char* argv[])
 {
